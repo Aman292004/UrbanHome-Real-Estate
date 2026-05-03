@@ -79,7 +79,7 @@ function Header({ toggleSidebar }) {
         <Link to="/">
           <h1 className="font-bold mx-2 text-sm sm:text-xl flex flex-wrap p-2 btn btn-ghost">
             <h2>
-              <span className="text-gray-500">URBAN</span>
+              <span className="text-gray-900">URBAN</span>
               <span className="text-slate-600">HOME</span>
             </h2>
           </h1>

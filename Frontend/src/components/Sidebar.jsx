@@ -57,10 +57,10 @@ function Sidebar({ open }) {
             <div className="leading-4">
               <Link to="/">
                 <h1 className="font-bold">
-                  <span className="text-slate-10000">URBAN</span>
+                  <span className="text-slate-900">URBAN</span>
                   <span className="text-slate-600">HOME</span>
                 </h1>
-                <span className="text-xs">urhome@gmail.com</span>
+                <span className="text-xs text-slate-700">urhome@gmail.com</span>
               </Link>
             </div>
           </div>
